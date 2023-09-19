@@ -30,7 +30,7 @@ export default function Services() {
                                         {/* <i className="flaticon-healthcare" /> */}
                                         <img src="/assets/img/vendor/payment.png" alt="" />
                                     </div>
-                                    <h4 className="title"><Link href="/services-details">Payment Flexibility</Link></h4>
+                                    <h4 className="title">Payment Flexibility</h4>
                                     <p>Having an online order tracking system comes with a range of payment methods  to suit your financial preferences. </p>
                                     <div className="overlay-icon">
                                         {/* <i className="flaticon-healthcare" /> */}
@@ -50,7 +50,7 @@ export default function Services() {
                                         <img src="/assets/img/vendor/online.png" alt="" />
 
                                     </div>
-                                    <h4 className="title"><Link href="/services-details">Online Payment Integration</Link></h4>
+                                    <h4 className="title">Online Payment Integration</h4>
                                     <p>Seamlessly integrate online payment systems, enabling 
                                         hassle free and secure financial transactions.</p>
                                     <div className="overlay-icon">
@@ -71,7 +71,7 @@ export default function Services() {
                                         <img src="/assets/img/vendor/invoice.png" alt="" />
 
                                     </div>
-                                    <h4 className="title"><Link href="/services-details">Invoicing Simplified </Link></h4>
+                                    <h4 className="title">Invoicing Simplified</h4>
                                     <p>Generate and manage invoices within vendor self service invoicing, ensuring accuracy and 
                                         transparency in financial documentation. </p>
                                     <div className="overlay-icon">

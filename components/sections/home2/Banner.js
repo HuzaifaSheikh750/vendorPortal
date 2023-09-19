@@ -22,7 +22,7 @@ export default function Banner() {
                                     <button type="submit"><i className="flaticon-right-arrow" /></button>
                                 </form> */}
                                  <div className="banner-btn" style={{marginTop:"40px"}}>
-                                    <Link href="https://outlook.office365.com/owa/calendar/KAISPE878766@NETORGFT2992819.onmicrosoft.com/bookings/" className="btn" data-aos="fade-right" data-aos-delay={700} style={{marginRight:"20px"}}>Book a Demo</Link>
+                                    <Link href="https://outlook.office365.com/owa/calendar/KAISPE878766@NETORGFT2992819.onmicrosoft.com/bookings/" className="btn" data-aos-delay={700} style={{marginRight:"20px"}}>Book a Demo</Link>
                                     <VideoPopup style={1}/>
                                 </div>
                             </div>

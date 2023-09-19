@@ -7,7 +7,7 @@ export default function VideoPopup({ style }) {
     return (
         <>
             {style === 1 &&
-                <a onClick={() => setOpen(true)} className="play-btn popup-video" data-aos="fade-left" data-aos-delay={700} style={{cursor:"pointer"}}><i className="fas fa-play" style={{ width:"30px"}} /> <span>Watch The Video</span></a>
+                <a onClick={() => setOpen(true)} className="play-btn popup-video"  data-aos-delay={700} style={{cursor:"pointer"}}><i className="fas fa-play" style={{ width:"30px"}} /> <span>Watch The Video</span></a>
             }
             {style === 2 &&
                 <a onClick={() => setOpen(true)} className="play-btn popup-video"><i className="fas fa-play" />Watch Video</a>
